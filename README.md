@@ -1,3 +1,3 @@
 # hello-world
-Hello World (time-honored tradition in computer programming)
-Aun Here. I like HTML, CSS, Javascript and Angular.
+Hello World (time-honored tradition in computer programming).
+Aun here, I like HTML, CSS, Javascript and Angular.
